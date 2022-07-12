@@ -2,7 +2,8 @@
 designing a database and the SQL requests 
 
 ## project description :
-here is all the assumptions and details about this project https://github.com/raghaddii/eHaraj-Database-System-Application/blob/main/project_description.pdf
+here is all the assumptions and details about this project in project.description file ..
+https://github.com/raghaddii/eHaraj-Database-System-Application/blob/main/project_description.pdf
 
 ## The models:
 
